@@ -1,0 +1,9 @@
+
+.lunbo{
+	text-align: center;
+}
+.content{
+	width: 80%!important;
+	    margin: 0 auto!important;
+}
+
